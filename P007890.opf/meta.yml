@@ -3,5 +3,22 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3PD394
   title: འགོག་གླིང་།
-  volume: ''
+  volume:
+    96c3dd2043ec4ac39e3f8e950e0da786:
+      image_group_id: I2PD17700
+      title: Volume 1 of 'gog gling /
+      volume_number: 1
+      total_pages: 462
+    6652939a231f4a38ac21fa8316d4c968:
+      image_group_id: I2PD17701
+      title: Volume 2 of 'gog gling /
+      volume_number: 2
+      total_pages: 508
   author: ''
+ebook_metadata:
+  title: འགོག་གླིང་།
+  author: ''
+  sku: P007890
+  cover: cover.jpg
+  layers:
+  - pagination
