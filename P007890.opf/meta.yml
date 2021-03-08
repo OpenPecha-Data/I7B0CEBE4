@@ -5,18 +5,16 @@ source_metadata:
   title: འགོག་གླིང་།
   author: ''
   volumes:
-    96c3dd2043ec4ac39e3f8e950e0da786:
+    fd69624acc544c37af9d48df1f620031:
       image_group_id: I2PD17700
-      title: Volume 1 of 'gog gling /
+      title: ''
       volume_number: 1
       total_pages: 462
-      base_file: v001.txt
-    6652939a231f4a38ac21fa8316d4c968:
+    5d622e740e2e476fa18ea41dbb2d4e28:
       image_group_id: I2PD17701
-      title: Volume 2 of 'gog gling /
+      title: ''
       volume_number: 2
       total_pages: 508
-      base_file: v002.txt
 ebook_metadata:
   title: འགོག་གླིང་།
   author: ''
